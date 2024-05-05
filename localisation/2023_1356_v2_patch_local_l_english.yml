@@ -21,14 +21,14 @@
  
  make_adrianople_main_city_title: "Move Court to Adrianople"
  make_adrianople_main_city_desc: "The once mighty Roman city of Adrianople is within striking distance of the glorious city of Constantinople. While the House of Osman home has been in Anatolia, securing Adrianople and relocating the court there would greatly bolster our legitimacy as the successors of the Sultanate of Rûm."
- ottoman_anatolian_conslidation_ayd_title: "Conslidation of Anatolia (Aydin)"
+ ottoman_anatolian_conslidation_ayd_title: "Consolidation of Anatolia (Aydin)"
  ottoman_anatolian_conslidation_ayd_desc: "The Beyliks of Aydin are among the weaker Turkish Kingdoms in Anatolia. There people would be better served in our growing empire."
- ottoman_anatolian_conslidation_hmd_title: "Conslidation of Anatolia (Hamid)"
+ ottoman_anatolian_conslidation_hmd_title: "Consolidation of Anatolia (Hamid)"
  ottoman_anatolian_conslidation_hmd_desc: "The Beyliks of Hamid are among the weaker Turkish Kingdoms in Anatolia. There people would be better served in our growing empire."
- ottoman_anatolian_conslidation_men_title: "Conslidation of Anatolia (Mentese)"
+ ottoman_anatolian_conslidation_men_title: "Consolidation of Anatolia (Mentese)"
  ottoman_anatolian_conslidation_men_desc: "The Beyliks of Mentese are among the weaker Turkish Kingdoms in Anatolia. There people would be better served in our growing empire."
  
- ottoman_anatolian_conslidation_teke_title: "Conslidation of Anatolia (Teke)"
+ ottoman_anatolian_conslidation_teke_title: "Consolidation of Anatolia (Teke)"
  ottoman_anatolian_conslidation_teke_desc: "The Beyliks of Teke are among the weaker Turkish Kingdoms in Anatolia. There people would be better served in our growing empire."
  
  ottoman_debate_on_conquest_path_title: "Debate on Conquest"
@@ -54,16 +54,16 @@
  ottoman_balkan_conslidation_bul_title: "Push into Europe (Bulgaria)"
  ottoman_balkan_conslidation_bul_desc: "The Bulgarian empire is in great disarray, let us exploit the situation in order to expand our European holdings."
  
- ottoman_anatolian_conslidation_karaman_title: "Conslidation of Anatolia (Karaman)"
+ ottoman_anatolian_conslidation_karaman_title: "Consolidation of Anatolia (Karaman)"
  ottoman_anatolian_conslidation_karaman_desc: "The Beyliks of Karaman are among some of the stronger Turkish Kingdoms in Anatolia. There people would be better served in our growing empire."
  
- ottoman_anatolian_conslidation_candar_title: "Conslidation of Anatolia (Candar)"
+ ottoman_anatolian_conslidation_candar_title: "Consolidation of Anatolia (Candar)"
  ottoman_anatolian_conslidation_candar_desc: "The Beyliks of Candar are among some of the stronger Turkish Kingdoms in Anatolia. There people would be better served in our growing empire."
  
- ottoman_anatolian_conslidation_canik_title: "Conslidation of Anatolia (Canik)"
+ ottoman_anatolian_conslidation_canik_title: "Consolidation of Anatolia (Canik)"
  ottoman_anatolian_conslidation_canik_desc: "The Beyliks of Canik are among some of the stronger Turkish Kingdoms in Anatolia. There people would be better served in our growing empire."
  
- ottoman_anatolian_conslidation_eretna_title: "Conslidation of Anatolia (Eretna)"
+ ottoman_anatolian_conslidation_eretna_title: "Consolidation of Anatolia (Eretna)"
  ottoman_anatolian_conslidation_eretna_desc: "The Beyliks of Eretna are among some of the stronger Turkish Kingdoms in Anatolia. There people would be better served in our growing empire."
  
  ottoman_anatolian_conslidation_eretna_cleanup_title: "Crush the Eretna Beyliks"
@@ -259,7 +259,7 @@
  welsh_princedom: "Welsh Principality"
  welsh_princedom_desc: ""
  legate_heir_tuteladge: "Tutelage of the Heir"
- legate_heir_tuteladge_desc: "One great Ruler legacy should not be diminished by a line of incompetent successors. Let's ensure that the children of the Monarch are well educated in all manners of zrulership. As one day, a time will come when they must take the throne."
+ legate_heir_tuteladge_desc: "One great Ruler legacy should not be diminished by a line of incompetent successors. Let's ensure that the children of the Monarch are well educated in all manners of rulership. As one day, a time will come when they must take the throne."
  legate_ties_to_the_guilds: "Ties to the Guilds"
  legate_ties_to_the_guilds_desc: "The various merchant guilds throughout the nation have strong ties to commerce throughout the continent. We should strive to have a close relationship with these guilds to protect our trade interests at home."
  legate_marshal_of_war: "Marshal of War"
@@ -430,7 +430,7 @@
  
  convert_subject_into_puppet_state_1356: "Establish Puppet State"
  convert_subject_into_puppet_state_1356_title: "Establish Puppet State"
- convert_subject_into_puppet_state_1356_desc:  "§Y[From.GetName]§! will become a Puppet State. As a Puppet State, §Y[From.GetName]§! cannot be annexed but instead has to integrated like a Personal Union.\n\nWhile a Puppet State §Y[From.GetName]§! will not cost §Y[Root.GetName]§! a diplomatic slot and will join all wars.\nAs a Puppet State, §Y[From.GetName]§! will recieve the following bonuses:\nLand Force Limit: §G+5.00§!\nNaval Force Limit §G+5.00§!\nYearly Tax Income: §G+48.00§!"
+ convert_subject_into_puppet_state_1356_desc:  "§Y[From.GetName]§! will become a Puppet State. As a Puppet State, §Y[From.GetName]§! cannot be annexed but instead has to integrated like a Personal Union.\n\nWhile a Puppet State §Y[From.GetName]§! will not cost §Y[Root.GetName]§! a diplomatic slot and will join all wars.\nAs a Puppet State, §Y[From.GetName]§! will receive the following bonuses:\nLand Force Limit: §G+5.00§!\nNaval Force Limit §G+5.00§!\nYearly Tax Income: §G+48.00§!"
  convert_subject_into_puppet_state_1356_tooltip: "Elevate a powerful vassal or march to the status of a Puppet State. Puppet States do not cost a diplomatic slot and are more loyal than vassals and marches."
  
  

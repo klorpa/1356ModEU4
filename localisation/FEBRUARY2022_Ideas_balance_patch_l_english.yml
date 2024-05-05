@@ -12,9 +12,9 @@
  espionage_infiltrate_army_tooltip: "Infiltrate Army reveals a foreign country and it’s subjects Fog of War for 2 years to ourselves and our allies. Allies will only benefit from the Fog of War if we are fighting in the same war."
  espionage_infiltrate_army_desc: "Send a spy to infiltrate the §Y[From.GetAdjective]§! Army and reveal the §Y[From.GetAdjective]§! §OFog of War§! to ourselves and our allies for §Y2§! years. This action will reduce our §Y[From.GetAdjective]§! Spy Network by §R70§!. "
  
- espionage_inflame_seperatist_sentiment_title: "Inflame Seperatist Sentiment"
- espionage_inflame_seperatist_sentiment_tooltip: "Incite Seperatist Sentiment in a foreign country, greatly increasing Unrest in recently conquered territory. This action will only affect provinces that have some form of Separatism."
- espionage_inflame_seperatist_sentiment_desc: "Send a spy to incite Seperatist Sentiments in §Y[From.GetName]§!. This action will reduce our §Y[From.GetAdjective]§! Spy Network by §R60§! and increases §Y[From.GetAdjective]§! §OYears of Separatism§! by §R10§! and §OStability Cost Modifier§! by §R20%§! for §Y5§! years."
+ espionage_inflame_seperatist_sentiment_title: "Inflame Separatist Sentiment"
+ espionage_inflame_seperatist_sentiment_tooltip: "Incite Separatist Sentiment in a foreign country, greatly increasing Unrest in recently conquered territory. This action will only affect provinces that have some form of Separatism."
+ espionage_inflame_seperatist_sentiment_desc: "Send a spy to incite Separatist Sentiments in §Y[From.GetName]§!. This action will reduce our §Y[From.GetAdjective]§! Spy Network by §R60§! and increases §Y[From.GetAdjective]§! §OYears of Separatism§! by §R10§! and §OStability Cost Modifier§! by §R20%§! for §Y5§! years."
  
  # New 'Ideas Modifiers'
  espionage_infiltrate_army_bonus_faction_influence: "§WMay use§! §YInfiltrate Armies§! §Wfor Spy Network cost of§!" 
@@ -49,7 +49,7 @@
  oversea_holdings_maritime_desc: "Our Trade Companies overseas seek investment in order to be successful. Let us contribute to these newly established holdings and one day, reap the benefits of our investment." 
  
  espionage_bribed_merchant_ongoing: "Merchants Bribed"
- espionage_inflamed_seperatist_sentiment: "Seperatist Sentiment Inflamed"
+ espionage_inflamed_seperatist_sentiment: "Separatist Sentiment Inflamed"
  patronaged_a_invetor_inno: "Patronaged an Inventor"
  is_considering_patronage_of_inventors: "Is considering Patronage of Inventors"
  great_thinker_advisor_cooldown: "Recently Recruited Erudite Advisor"
@@ -63,11 +63,11 @@
  
  pride_of_the_fleet_flagship: "Has a Pride of the Fleet"
  pride_of_the_fleet_flagship_desc: "Our nations reveres having a National Flagship"
- flagship_got_sunked: "Flagship recently sunked"
+ flagship_got_sunked: "Flagship recently sunk"
  flagship_got_captured: "Flagship recently captured"
  
  centrialize_the_governorships: "Centralize the Governorships"
- centrialize_the_governorships_desc: "From Dukes to Counts, the division of our lands between various governors of sorts has led to an overall prosperous but sometimes inefficient administration of land. It is time we centrialize these varying governorships and increase authority of the Central Bureaucracy."
+ centrialize_the_governorships_desc: "From Dukes to Counts, the division of our lands between various governors of sorts has led to an overall prosperous but sometimes inefficient administration of land. It is time we centralize these varying governorships and increase authority of the Central Bureaucracy."
  
  tur_rewarded_in_other_wars: "Concessions to the Janissaries"
  tur_rewarded_in_other_wars_desc: "We have offered concessions to our Janissaries in ways other than gold"
@@ -76,7 +76,7 @@
  expanded_council_admin: "Expand the Advisory Board"
  expanded_council_admin_desc: "For us to govern the state efficiently, we should expand our council of advisors to incorporate more people throughout our nation. While this may increase political intrigue, it will open us to more options for governance going forward."
  masters_of_intrigue_espionage: "Masters of Intrigue"
- masters_of_intrigue_espionage_desc: "Over the years, our spies have perfected the art of Intrigue, and in doing so, have made actions once thought inconceivable now possible. Should we manage to establish a strong network of spies in a foreign country we can incite Seperatist Sentiments, causing instability, and Infiltrate our foes armies, providing us intel on what a foreign nation might be plotting with its armies and navies.\nMay assign §OSpecialization Missions§! through the §Y'Assign Espionage Specializations Missions'§! Decision."
+ masters_of_intrigue_espionage_desc: "Over the years, our spies have perfected the art of Intrigue, and in doing so, have made actions once thought inconceivable now possible. Should we manage to establish a strong network of spies in a foreign country we can incite Separatist Sentiments, causing instability, and Infiltrate our foes armies, providing us intel on what a foreign nation might be plotting with its armies and navies.\nMay assign §OSpecialization Missions§! through the §Y'Assign Espionage Specializations Missions'§! Decision."
  wonders_of_the_world_econ: "Wonders of the World"
  wonders_of_the_world_econ_desc: "Throughout the World exists many Great Monuments waiting to be built. It is time we take the Initiative and begin construction of these Great Projects."
  
@@ -90,7 +90,7 @@
  
  # New Tooltips
  DOES_NOT_HAVE_BRIBED_MERCHANTS: "§Y[From.GetName]§! must §RNOT§! have Merchants already being bribed."
- DOES_NOT_HAVE_INFLAMED_SEPERATISM: "§Y[From.GetName]§! must §RNOT§! have Seperatist Sentiment already inflamed."
+ DOES_NOT_HAVE_INFLAMED_SEPERATISM: "§Y[From.GetName]§! must §RNOT§! have Separatist Sentiment already inflamed."
  FOUNDED_A_ESPIONAGE_NETWORK: "Has Founded an Espionage Network"
  DID_NOT_KILL_HEIR: "Has §RNOT§! assassinated an Heir in the last 20 years"
  NOT_RECENTLY_RECRUITED_FROM_SPIES: "Has §RNOT§! recruited from the Espionage Network in the last 15 years"
